@@ -33,8 +33,8 @@ The dataset used for this project is the Titanic passenger data, which includes 
 To run this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Sunithakarri/titanic-survival-logistic-regression.git
-cd titanic-survival-logistic-regression
+git clone https://github.com/Sunithakarri/Titanic-Survival-Logistic-Regression.git
+cd Titanic-Survival-Logistic-Regression
 pip install -r requirements.txt
 
 Evaluation
@@ -42,9 +42,6 @@ The model's performance can be evaluated using metrics such as accuracy, precisi
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with any improvements or bug fixes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
 Kaggle Titanic Dataset
